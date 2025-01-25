@@ -1,3 +1,2 @@
-# This is the user's information<br>
-Name: Robin Poddar Partha<br>
+Name: Robin Poddar Partha
 Scholar ID: 2412179
